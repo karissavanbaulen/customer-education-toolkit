@@ -2,7 +2,7 @@
 
 The templates I've actually used to run customer education, docs and support teams. They're cleaned up so you can copy them, but each one started as a real doc for a real team.
 
-I'm [Karissa Van Baulen](https://github.com/karissavanbaulen). I've built education and knowledge base teams at Hotjar and Pallon, and I write [What the FAQ?!](https://what-the-faq.kit.com/).
+I'm [Karissa Van Baulen](https://github.com/karissavanbaulen). I've built education and knowledgebase teams at Hotjar and Pallon, and I write [What the FAQ?!](https://what-the-faq.kit.com/).
 
 ## What's in here
 
