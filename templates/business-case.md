@@ -2,7 +2,7 @@
 
 ## Where I used this
 
-I've used this structure twice for big asks. The first was building a docs team out of a 7-person support team writing help articles on the side. The second was buying our first LMS. Both were approved. The LMS became the platform for an academy and a certification program that certified 1,000+ users in its first month.
+I've used this structure twice for big asks. The first was building a docs team out of a 7-person support team writing help articles on the side. The second was buying our first LMS. Both were approved and the crowd went wild 👏 👏 👏 The LMS became the platform for an academy and a certification program that certified 1,000+ users in its first month.
 
 The lesson both times: "everyone knows docs are important" is not a business case. Leadership says yes to numbers they already track and to a plan for how the money gets spent.
 
@@ -19,7 +19,7 @@ The lesson both times: "everyone knows docs are important" is not a business cas
 
 ## The problem
 
-{One paragraph. What can't you do today, and what does that cost? Be plain about it.}
+{One paragraph. What can't you do today, and what does that cost? Be as clear as possible.}
 
 ## What we need
 
