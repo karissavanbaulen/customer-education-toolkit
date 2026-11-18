@@ -25,9 +25,9 @@ At Hotjar, the objective I kept every quarter was "Establish customer education 
 
 **KR2: Self-serve onboarding for {segment} customers.** Get {X}% of qualified {segment} leads to engage with onboarding content (webinar, learning path, videos, guides).
 
-- Q1, research: plan {4–6} onboarding paths based on what comes up in Sales and Success calls.
-- Q2, build and baseline: publish the paths. Measure how many {segment} customers use them and their new-business MRR.
-- Q3–Q4, iterate: get {100} customers through onboarding without a CSM. Contribute {$X} to new-business MRR.
+- Q1, research & build: plan {4-6} onboarding paths based on what comes up in Sales and Success calls.
+- Q2, baseline & measure: publish the paths. Measure how many {segment} customers use them and their new-business MRR.
+- Q3–Q4, iterate: get {X} customers through onboarding without a CSM. Contribute {$X} to new-business MRR.
 
 ### Quarterly key results
 
@@ -41,9 +41,9 @@ At Hotjar, the objective I kept every quarter was "Establish customer education 
 
 ## Variant: internal training team
 
-**Objective: Fully educated {reviewers / agents} on {upcoming change}.**
+**Objective: Fully educated {team / agents} on {upcoming change}.**
 
-- KR1: Courses created for at least {75}% of affected {topics}.
-- KR2: Collect feedback from at least {70}% of learners, with an average satisfaction of {4/5} or higher.
+- KR1: Courses created for at least {X}% of {team function} current needs.
+- KR2: Collect feedback from at least {X}% of learners, with an average satisfaction of {4/5} or higher.
 - KR3: Ship at least {5} learner-suggested improvements to the KB and {5} to the LMS.
-- KR4: {90}% of help center content audited and up to date by the end of the quarter.
+- KR4: {X}% of help center content audited and up to date by the end of the quarter.
